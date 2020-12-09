@@ -2,7 +2,7 @@
 
 <p align="left"> 
  Olá, me chamo Johnny Kleyson e sou um <strong>Desenvolvedor Front End</strong>.<br>
-  Aqui você vai encontrar meus projetos recentes e o que eu ando estudando.
+  Sou um apaixonado por tecnologia e achei meu lugar na programação. Aqui você vai encontrar meus projetos recentes e o que eu ando estudando.
 </p>
 
 <p align="left">
