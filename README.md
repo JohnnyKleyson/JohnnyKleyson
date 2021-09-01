@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS3, Javascipt, Firebase, Bootstrap</strong>
+  🦄 Linguagens: <strong>HTML5, CSS3, Javascipt, React, JQuery, Firebase, Bootstrap, Git</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode E Windows</strong>
+  💼 Ferramentas: <strong>VSCode & Windows</strong>
 </p>
 
 <p align="left">
